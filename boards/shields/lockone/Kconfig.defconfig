@@ -1,0 +1,6 @@
+if SHIELD_LOCKONE
+
+config ZMK_KEYBOARD_NAME
+    default "LockOne"
+
+endif

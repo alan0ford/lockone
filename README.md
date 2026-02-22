@@ -17,4 +17,4 @@ CapsLock LED standalone:
 
 
 **LED Video**
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/608bmoY"  ><a href="//imgur.com/a/608bmoY">LockOne (a BT Capslock LED)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="ZBmLlES"><a href="https://imgur.com/ZBmLlES">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

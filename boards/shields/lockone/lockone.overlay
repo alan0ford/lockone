@@ -43,6 +43,12 @@
         zmk,kscan = &kscan0;
         zmk,matrix_transform = &default_transform;
 		zmk,underglow = &smartled;
+		zmk,battery = &vbatt;
+    };
+
+    vbatt: vbatt {
+        compatible = "zmk,battery-nrf-vddh";
+        status = "okay";
     };
 
     default_transform: keymap_transform_0 {
